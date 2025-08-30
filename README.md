@@ -1,2 +1,2 @@
-# portfolio-porjects
-Actual repository for my data analyst projects.
+# portfolio-projects
+Actual repository to store my data analyst projects.
